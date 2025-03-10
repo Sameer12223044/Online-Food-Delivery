@@ -1,0 +1,14 @@
+{
+  "name": "online-food-delivery",
+  "version": "1.0.0",
+  "description": "Online food delivery application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node login.php"
+  },
+  "dependencies": {
+    "express": "^4.17.1"  
+  },
+  "author": "",
+  "license": "MIT"
+}
